@@ -1,7 +1,7 @@
 ﻿SequentialGuid
 ==============
 
-Author: Jeremy H. Todd (http://jeremytodd.org/)
+Author: Jeremy H. Todd (http://jeremytodd.org/)  
 License: Public domain
 
 Description
